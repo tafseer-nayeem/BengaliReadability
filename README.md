@@ -1,4 +1,4 @@
-# Bengali Readability Prediction
+## Bengali Readability Prediction
  
 Code and Dataset of our work, [Simple or Complex? Learning to Predict Readability of Bengali Texts](https://arxiv.org/abs/2012.07701) accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/). 
 
